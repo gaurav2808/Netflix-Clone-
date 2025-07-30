@@ -6,7 +6,7 @@
 
 A responsive front-end **Netflix landing page clone** created using HTML and CSS. This project replicates the look and feel of the official Netflix homepage with proper layout, sections, and responsive design.
 
----
+--
 
 ## 📸 Preview
 
